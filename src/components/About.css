@@ -1,0 +1,15 @@
+ .a-container{
+    width: 100vw;
+    height: 100vh;
+    background:linear-gradient(rgb(225, 243, 243),rgb(35, 113, 113)) ;
+ }
+ .imagecont{
+    width: 40vw;
+    height: 86vh;
+    margin-top: 7vh;
+    margin-left: 6vw;
+    border-radius: 10px;
+ }
+ .a-container .swiper-button-next{
+    margin-right: 15px;
+}

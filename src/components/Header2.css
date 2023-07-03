@@ -1,0 +1,25 @@
+.h-container{
+    width: 100vw;
+    height: 5vh;
+    /* background-color: rgb(140, 208, 243); */
+    background-color: rgb(187, 223, 226);
+    
+}
+.contact{
+   
+    margin-right: 20px;
+    padding-top: 3px;
+    cursor: pointer;
+    font-weight: 500;
+    display: flex;
+    justify-content: right;
+}
+.logo1{
+   padding-top: 4px;
+}
+.phone{
+    margin-right: 20px;
+}
+.mail{
+    margin-left: 3px;
+}

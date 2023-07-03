@@ -1,0 +1,26 @@
+.c-container{
+    width: 100vw;
+    height: 100vh;
+    background:linear-gradient(rgb(225, 243, 243),rgb(35, 113, 113)) ;
+    
+}
+.box{
+    width: 450px;
+    height: 80vh;
+    background-color: rgb(243, 233, 196);
+    border-radius: 10px;
+    margin-left: 550px;
+    position: relative;
+    top: 55px;
+    
+}
+.box1{
+    margin-left: 50px;
+    
+}
+.box2{
+    margin-left: 30px;
+    /* margin-top: 30px; */
+    padding-top: 30px;
+    
+}

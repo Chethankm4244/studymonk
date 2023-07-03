@@ -1,0 +1,80 @@
+.l-container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(225, 243, 243);
+    display: flex;
+}
+.loginimg{
+    width: 50vw;
+    height: 100vh;
+}
+.form{
+    width: 500px;
+    height: 600px;
+    /* background-color: blueviolet; */
+    margin-left: 170px;
+    margin-top: 80px;
+    
+}
+.l-container form h2{
+    font-size: 30px;
+}
+.input1{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    width: 400px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1.5px solid black;
+}
+.btn1{
+    margin-right: 12px;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    width: 185px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    color:rgb(15, 88, 95) ;
+}
+.btn2{
+    margin-left: 12px;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    width: 185px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color:rgb(20, 150, 162) 
+}
+.logoimg2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    top: 7px;
+}
+.company-name2{
+    font-size: 33px;
+}
+.form p {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.form h2{
+    margin-top: 20px;
+}
+.input1 label{
+    margin-top: 25px;
+    font-weight: 500;
+}
+.forgot{
+    text-align: right;
+    margin-right: 100px;
+}
+.btn1,.btn2{
+    margin-top: 30px;
+    cursor: pointer;
+}

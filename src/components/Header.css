@@ -1,0 +1,52 @@
+.container{
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(22, 162, 174);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.logoimg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 40px;
+    position: relative;
+    top: 6px;
+
+    
+}
+.company-name{
+    margin-left: 0px;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+    /* background-color: rgb(245, 244, 243); */
+    
+}
+.right ul {
+ display: flex;
+
+}
+.right ul li {
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 40px;
+    list-style: none;
+    cursor: pointer;
+}
+.lit:hover{
+    color: rgb(142, 239, 206);
+}
+.singup{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 40px;
+}
+.singup:hover{
+    color: rgb(142, 239, 206);
+}
